@@ -1,3 +1,3 @@
-# Who-wants-to-be-a-millionaire
+# Games in C
 
 a simple general knowledge game 
