@@ -1,3 +1,6 @@
 # Games in C
 
-a simple general knowledge game 
+Some games which i made in C. 
+
+1.KBC - Simple General Knowledge Game
+2. 
